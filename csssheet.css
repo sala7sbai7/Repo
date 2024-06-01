@@ -1,0 +1,61 @@
+html {
+    background-color: #ffffff;
+    text-align: center;
+}
+h1 {
+    background-color: #0077B6;
+    color: #00B4D8;
+    border-radius: 50px 50px 50px 50px;
+    display: block;
+    text-align: center;
+    padding: 5px;
+}
+h2 {
+    background-color: #90E0EF;
+    color: #405f65;
+    border-radius: 50px 50px 50px 50px;
+    display: block;
+    padding: 5px;
+}
+h3 {
+    background-color: #CAF0F8;
+    color: #405f65;
+    border-radius: 50px 50px 50px 50px;
+    display: inline-block;
+    padding: 5px;
+}
+.Paragraph {
+    background-color: #CAF0F8;
+    color: #0077B6;
+    border-radius: 50px 50px 50px 50px;
+    display: inline-block;
+    padding: 15px 15px 15px 15px;
+
+}
+span {
+    color: indigo;
+}
+#MyNumber {
+    border: solid rgb(44, 203, 242) 2px;
+    border-style: double;
+    border-radius: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
+    color: #5830b4;
+    font-size: 2rem;
+    display: flexbox;
+}
+div {
+    display: block;
+}
+
+footer {
+    background-color: #90E0EF;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 20px;    
+}
+
+.divp {
+    size: 50px;
+    color: #47cbe6;
+    display: inline-block;
+}
